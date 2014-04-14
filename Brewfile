@@ -25,3 +25,4 @@ cask install textmate
 cask install virtualbox
 cask install the-unarchiver
 cask install keepassx
+cask install gimp-lisanet
